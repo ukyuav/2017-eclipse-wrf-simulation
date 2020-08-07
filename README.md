@@ -1,3 +1,5 @@
+Currently in progress: large output files need GitLFS to be uploaded to GitHub. 
+
 Simulation information and raw output from WRF simulation of 2017 total solar eclipse at Russellville, KY.
 
 Intended for comparision with data published by Sean C. C. Bailey, Caleb A. Canter, Michael P. Sama, Adam L. Houston and Suzanne Weaver Smith in [this paper](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2019.0212)
